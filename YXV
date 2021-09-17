@@ -1,0 +1,5 @@
+# YvScripter
+
+--v26 Yv Script
+
+loadstring(game:HttpGet("https://pastebin.com/raw/t1Dx56ae", true))()
